@@ -1,0 +1,9 @@
+<TextView
+    android:text="Happy Birthday!"
+    android:background="#33691E"
+    android:textColor="#CCFF90"
+    android:textSize="35sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+	
+	#//https://labs.udacity.com/android-visualizer/#/android/wrap-content
